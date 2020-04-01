@@ -1,2 +1,4 @@
 # syntaxChecker
-Checking syntax assignment for Data Struct 350
+Student: Joshua Yang 
+ID: 2355145
+
